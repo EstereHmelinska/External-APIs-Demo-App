@@ -1,0 +1,57 @@
+### One Book Async
+GET http://localhost:8080/api/books/async/1
+
+###
+
+### Another Book Async
+GET http://localhost:8080/api/books/async/2
+
+###
+
+### All Books Async
+GET http://localhost:8080/api/books/async
+
+###
+
+### Chaos 991
+GET http://localhost:8080/api/books/async/991
+
+###
+
+### Chaos 992
+GET http://localhost:8080/api/books/async/992
+
+###
+
+### Chaos 993
+GET http://localhost:8080/api/books/async/993
+
+###
+
+### Chaos 994
+GET http://localhost:8080/api/books/async/994
+
+###
+
+### Chaos 995
+GET http://localhost:8080/api/books/async/995
+
+###
+
+### Chaos 996
+GET http://localhost:8080/api/books/async/996
+
+###
+
+### Chaos 997
+GET http://localhost:8080/api/books/async/997
+
+###
+
+### Chaos 998
+GET http://localhost:8080/api/books/async/998
+
+###
+
+### Chaos 999
+GET http://localhost:8080/api/books/async/999

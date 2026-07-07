@@ -1,0 +1,17 @@
+### Parallel Books
+GET http://localhost:8080/api/books/async/parallel?id1=1&id2=2
+
+###
+
+### Parallel Chaos
+GET http://localhost:8080/api/books/async/parallel?id1=1&id2=991
+
+###
+
+### Parallel Two Chaos
+GET http://localhost:8080/api/books/async/parallel?id1=992&id2=993
+
+###
+
+### Parallel Different Books
+GET http://localhost:8080/api/books/async/parallel?id1=5&id2=10

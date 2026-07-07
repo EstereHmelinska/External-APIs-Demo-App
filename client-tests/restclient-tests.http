@@ -1,0 +1,57 @@
+### One Book
+GET http://localhost:8080/api/books/1
+
+###
+
+### Another Book
+GET http://localhost:8080/api/books/2
+
+###
+
+### All Books
+GET http://localhost:8080/api/books
+
+###
+
+### Chaos 991
+GET http://localhost:8080/api/books/991
+
+###
+
+### Chaos 992
+GET http://localhost:8080/api/books/992
+
+###
+
+### Chaos 993
+GET http://localhost:8080/api/books/993
+
+###
+
+### Chaos 994
+GET http://localhost:8080/api/books/994
+
+###
+
+### Chaos 995
+GET http://localhost:8080/api/books/995
+
+###
+
+### Chaos 996
+GET http://localhost:8080/api/books/996
+
+###
+
+### Chaos 997
+GET http://localhost:8080/api/books/997
+
+###
+
+### Chaos 998
+GET http://localhost:8080/api/books/998
+
+###
+
+### Chaos 999
+GET http://localhost:8080/api/books/999
